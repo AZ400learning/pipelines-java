@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/shrutisinha/az400Training/_apis/build/status/ShrutiSinhaa.pipelines-java?branchName=master)](https://dev.azure.com/shrutisinha/az400Training/_build/latest?definitionId=22&branchName=master)
 
 # Contributing
 
